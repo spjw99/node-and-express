@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS notes_db;
-CREATE DATABASE notes_db;
-USE notes_db;
+-- DROP DATABASE IF EXISTS notes_db;
+-- CREATE DATABASE notes_db;
+USE jsw638kwnthhh3fo;
 
 -- Create the tables table
 DROP TABLE IF EXISTS notes;
